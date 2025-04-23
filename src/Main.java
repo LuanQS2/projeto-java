@@ -21,7 +21,7 @@ public class Main {
                     "Menu Principal",
                     JOptionPane.DEFAULT_OPTION,
                     JOptionPane.INFORMATION_MESSAGE,
-                    null,git init
+                    null,
                     opcoes,
                     opcoes[0]
             );
